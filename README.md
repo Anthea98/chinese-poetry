@@ -1,26 +1,3 @@
-<p align="center">
-  <a href="https://github.com/chinese-poetry/chinese-poetry">
-      <img src="https://avatars3.githubusercontent.com/u/30764933?s=200&v=4" alt="chinese-poetry">
-  </a>
-</p>
-
-<h2 align="center">chinese-poetry: 最全中文诗歌古典文集数据库</h2>
-
-<p align="center">
-  <a href="https://travis-ci.com/chinese-poetry/chinese-poetry" rel="nofollow">
-    <img height="28px" alt="Build Status" src="https://img.shields.io/travis/chinese-poetry/chinese-poetry?style=for-the-badge" style="max-width:100%;">
-  </a>
-  <a href="https://github.com/chinese-poetry/chinese-poetry/blob/master/LICENSE">
-    <img height="28px" alt="License" src="http://img.shields.io/badge/license-mit-blue.svg?style=for-the-badge" style="max-width:100%;">
-  </a>
-  <a href="https://github.com/chinese-poetry/chinese-poetry/graphs/contributors">
-    <img height="28px" alt="Contributors" src="https://img.shields.io/github/contributors/chinese-poetry/chinese-poetry.svg?style=for-the-badge" style="max-width:100%;">
-  </a>
-  <a href="https://www.patreon.com/jackeygao" rel="nofollow">
-    <img height="28px" alt="Patreon" src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Djackeygao%26type%3Dpledges&style=for-the-badge" style="max-width:100%;">
-  </a>
-</p>
-
 
 最全的中华古典文集数据库，包含 5.5 万首唐诗、26 万首宋诗、2.1 万首宋词和其他古典文集。诗人包括唐宋两朝近 1.4 万古诗人，和两宋时期 1.5 千古词人。数据来源于互联网。
 
@@ -125,3 +102,6 @@
 ## License
 
 [MIT](https://github.com/chinese-poetry/chinese-poetry/blob/master/LICENSE) 许可证。
+
+## 举例
+1、李煜：昨夜小楼又东风，10岁著作
