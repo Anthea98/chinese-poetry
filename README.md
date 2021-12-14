@@ -125,3 +125,7 @@
 ## License
 
 [MIT](https://github.com/chinese-poetry/chinese-poetry/blob/master/LICENSE) 许可证。
+
+## 举例
+1. 李煜：昨夜小楼又东风 34岁著作
+2. 苏轼：十年生死两茫茫，10岁著作
